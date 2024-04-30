@@ -1,15 +1,16 @@
-| 词根        | -ful         | 中文           | -less         | 中文         |
-|------------|--------------|----------------|---------------|--------------|
+
+| 词根        | -ful         | 中文           | -less         | 中文        |
+|------------|--------------|----------------|---------------|-------------|
 | Joy        | Joyful       | 充满喜悦的     | Joyless       | 无喜悦的     |
 | Hope       | Hopeful      | 充满希望的     | Hopeless      | 没有希望的   |
 | Care       | Careful      | 小心的         | Careless      | 粗心的       |
 | Power      | Powerful     | 强大的         | Powerless     | 无力的       |
-| Wonder     | Wonderful    | 极好的         | Wonderless    | -            |
+| Wonder     | Wonderful    | 极好的         | -             | -           |
 | Pain       | Painful      | 痛苦的         | Painless      | 无痛的       |
 | Help       | Helpful      | 有帮助的       | Helpless      | 无助的       |
 | Thank      | Thankful     | 感激的         | Thankless     | 不感激的     |
 | Mind       | Mindful      | 注意的         | Mindless      | 没头脑的     |
-| Peace      | Peaceful     | 平静的         | Peaceless     | -            |
+| Peace      | Peaceful     | 平静的         | -             | -           |
 | Fruit      | Fruitful     | 富饶的         | Fruitless     | 徒劳的       |
 | Skill      | Skillful     | 熟练的         | Skillless     | 无技能的     |
 | Grace      | Graceful     | 优雅的         | Graceless     | 不雅的       |
@@ -21,28 +22,24 @@
 | Rest       | Restful      | 安静的         | Restless      | 不安静的     |
 | Cheer      | Cheerful     | 高兴的         | Cheerless     | 无欢乐的     |
 | Event      | Eventful     | 多事的         | Eventless     | 平静的       |
-| Respect    | Respectful   | 尊敬的         | Respectless   | 无尊重的     |
-| Care       | Careful      | 小心的         | Careless      | 粗心的       |
-| Reck       | Reckful      | 考虑周到的     | Reckless      | 鲁莽的       |
-| Spite      | Spiteful     | 恶意的         | Spiteless     | -            |
-| Regret     | Regretful    | 后悔的         | Regretless    | -            |
-| Guilt      | Guiltful     | 有罪的         | Guiltless     | 无罪的       |
+| Respect    | Respectful   | 尊敬的         | -             | -           |
+| Reck       | -            | -              | Reckless      | 鲁莽的       |
+| Spite      | Spiteful     | 恶意的         | -             | -           |
+| Regret     | Regretful    | 后悔的         | -             | -           |
+| Guilt      | -            | -              | Guiltless     | 无罪的       |
 | Doubt      | Doubtful     | 可疑的         | Doubtless     | 毫无疑问的   |
 | Mercy      | Merciful     | 仁慈的         | Merciless     | 无情的       |
-| Taste      | Tasteful     | 有品味的       | Tasteless     | 无味的       |
-| Blame      | Blameful     | 应受责备的     | Blameless     | 无可指责的   |
+| Blame      | -            | -              | Blameless     | 无可指责的   |
 | Fear       | Fearful      | 害怕的         | Fearless      | 无畏的       |
-| Cloud      | Cloudful     | 多云的         | Cloudless     | 无云的       |
-| Breath     | Breathful    | 充满呼吸的     | Breathless    | 喘不过气来的 |
-| Count      | Countful     | 计算周到的     | Countless     | 无数的       |
-| Child      | Childful     | -              | Childless     | 无子女的     |
-| Rest       | Restful      | 安静的         | Restless      | 不安静的     |
+| Cloud      | -            | -              | Cloudless     | 无云的       |
+| Breath     | -            | -              | Breathless    | 喘不过气来的 |
+| Count      | -            | -              | Countless     | 无数的       |
+| Child      | -            | -              | Childless     | 无子女的     |
 | Art        | Artful       | 狡猾的         | Artless       | 朴实的       |
-| Delight    | Delightful   | 令人愉快的     | Delightless   | -            |
+| Delight    | Delightful   | 令人愉快的     | -             | -           |
 | Color      | Colorful     | 多彩的         | Colorless     | 无色的       |
 | Law        | Lawful       | 合法的         | Lawless       | 无法无天的   |
-| Shame      | Shameful     | 可耻的         | Shameless     | 无耻的       |
-| Friend     | Friendful    | -              | Friendless    | 无朋友的     |
+| Friend     | -            | -              | Friendless    | 无朋友的     |
 | Need       | Needful      | 必需的         | Needless      | 不必要的     |
 | Resource   | Resourceful  | 足智多谋的     | Resourceless  | 缺乏资源的   |
-| Pain       | Painful      | 痛苦的         | Painless      | 无痛的       |
+```
